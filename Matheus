@@ -1,7 +1,7 @@
-# -*- coding: utf-8 -*- MATHEUS DEPERON
+ MATHEUS DEPERON
 
 from funcionarios import Funcionario, ListaDeFuncionarios, FuncionarioException, Gerente
-from datetime import date
+from datetime import date .
 
 def aplicacao():
     '''
